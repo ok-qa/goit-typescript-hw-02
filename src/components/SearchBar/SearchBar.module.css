@@ -1,0 +1,32 @@
+.searchField {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(236, 186, 161, 0.325);
+    padding: 10px;
+    margin: auto;
+  }
+  
+  .input {
+    border: none;
+    margin-right: 5px;
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+    background-color: rgba(243, 238, 235, 0.645); 
+  }
+
+  .input:hover, :active{
+    border: 2px;
+    border-color: rgb(255, 179, 0);
+  }
+
+  .searchBtn{
+    color: antiquewhite;
+    background-color: rgba(19, 8, 2, 0.645);
+    border-color: black;
+    margin-left: 10px;
+  }
+
+  .searchBtn:hover{
+    background-color: rgba(19, 8, 2, 0.877);
+  }

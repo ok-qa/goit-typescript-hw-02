@@ -1,0 +1,8 @@
+.loadMoreBtn{
+    background-color: rgba(15, 162, 98, 0.697);
+}
+
+.loadMoreBtn:hover{
+    background-color: rgba(10, 133, 80, 0.804);  
+    color: bisque;
+}
